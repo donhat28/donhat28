@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donhat28&label=Profile%20views&color=0e75b6&style=flat" alt="donhat28" /> </p>
 
-- 🌱 I’m currently learning **Pytorch, Tensorflow**
+- 🌱 I’m currently learning **Pytorch, Tensorflow, Machine Learning, Computer Vision**
 
 - 📫 How to reach me: **doquangnhat28@gmail.com**
 
